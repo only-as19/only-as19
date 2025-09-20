@@ -16,7 +16,7 @@
 </p>
 
 <p align="start" style="font-size: 1.1rem;">
-  📫 Reach out at <a href="mailto:asadlatif403@gmail.com">asadlatif403@gmail.com</a> or check out my work at <a href="https://your-portfolio-link.com" target="_blank">your-portfolio-link.com</a>.
+<!--   📫 Reach out at <a href="mailto:asadlatif403@gmail.com">asadlatif403@gmail.com</a> or check out my work at <a href="https://your-portfolio-link.com" target="_blank">your-portfolio-link.com</a>. -->
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=only-as19&label=Profile%20views&color=0e75b6&style=flat" alt="only-as19" /> </p>
